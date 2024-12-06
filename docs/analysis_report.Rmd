@@ -1,0 +1,21 @@
+---
+title: Demand Forecasting and Supply Chain Optimization
+author: Hamza Al NAjjar
+output: html_document
+---
+
+## Introduction
+
+This report outlines the analysis performed on the e-commerce sales data, focusing on demand forecasting and supply chain optimization.
+
+## Demand Forecasting
+
+We used both classical time-series models using ARIMA and machine learning models like Random Forest to predict future demand.
+
+## Optimization Model
+
+We developed a Mixed Integer Linear Programming (MILP) model to optimize inventory levels and minimize supply chain costs.
+
+## Conclusion
+
+This project demonstrates how data science can drive decision-making in an e-commerce supply chain context.
