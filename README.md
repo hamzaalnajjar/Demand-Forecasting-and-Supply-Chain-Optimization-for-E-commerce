@@ -1,10 +1,9 @@
 # Demand-Forecasting-and-Supply-Chain-Optimization-for-E-commerce
-## Project Overview
 
-This project aims to develop a demand forecasting and supply chain optimization system for an e-commerce business. The main components of the project include:
+The goal of this project is to develop a demand forecasting and supply chain optimization system for an e-commerce business. The main components:
 
 - **Time-Series Forecasting**: Forecasting product demand using ARIMA and Random Forest models.
-- **Supply Chain Optimization**: Using Mixed Integer Linear Programming (MILP) to optimize inventory levels, reordering policies, and minimize costs.
+- **Supply Chain Optimization**: Using MILP to optimize inventory levels, reordering policies, and minimize costs.
 - **Shiny Dashboard**: An interactive dashboard to visualize forecasts and optimization results.
 
 ## Project Setup
